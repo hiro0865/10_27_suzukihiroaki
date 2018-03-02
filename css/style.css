@@ -1,0 +1,48 @@
+.main-nav a {
+    text-align: center;
+    font-size: 15px;
+    margin: 10px;
+    border-radius: 5px;
+    background: #60B99A;
+    color: #fff;
+    display: block;
+    padding: 15px;
+    width: 80px;
+    text-decoration: none;
+}
+
+.main-nav{
+    display: flex;   
+}
+.main-nav li:first-child{
+    margin-right: auto;
+}
+li{
+    list-style: none;
+}
+body{
+    background-color:rgb(127, 136, 233);
+}
+h1{
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+}
+p{
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+}
+#main{
+    margin: auto;
+    width: 75%;
+}
+#output{
+    margin: 20px auto;
+    width: 100%;
+    height: 500px;
+    background-color: rgb(203, 238, 233);
+    color:  #000;
+    border: 1px solid #fff;
+    overflow: auto;
+}

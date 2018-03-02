@@ -1,0 +1,15 @@
+ログインしなくても見ることができるページ
+index.php 
+
+新規登録
+user_first_register.php - user_insert.php
+
+ログイン
+login.php - login_act.php
+
+adminの見るページ
+admin_register_php - admin_insert.php - admin_view.php
+                                    - admin_delete.php
+
+一般userの見るページ
+user_profile.php -(プロフィール登録)profile_register.php - profile.insert.php
